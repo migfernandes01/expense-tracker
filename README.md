@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Description
+
+This is my first react project, follow the instructions bellow to get it running locally on your computer!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
